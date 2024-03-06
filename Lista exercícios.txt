@@ -1,0 +1,31 @@
+    Calculadora Simples:
+    Crie um programa que permita ao usuário realizar operações básicas de uma calculadora (adição, subtração, multiplicação, divisão) com dois números fornecidos como entrada.
+
+    Verificador de Palíndromo:
+    Escreva um programa que verifique se uma palavra fornecida pelo usuário é um palíndromo (ou seja, ela permanece a mesma se lida de trás para frente).
+
+    Contador de Vogais:
+    Faça um programa que conte o número de vogais em uma string fornecida pelo usuário.
+
+    Conversor de Temperatura:
+    Escreva um programa que converta temperaturas entre Celsius, Fahrenheit e Kelvin.
+
+    Fatorial de um Número:
+    Escreva uma função para calcular o fatorial de um número fornecido pelo usuário.
+
+    Jogo da Forca:
+    Implemente o clássico jogo da forca, onde o jogador tem que adivinhar uma palavra oculta, uma letra de cada vez.
+
+    Soma dos Números Pares:
+    Escreva um programa que calcule a soma de todos os números pares em uma lista fornecida pelo usuário.
+
+    Gerador de Números Primos:
+    Crie uma função que gere os primeiros n números primos.
+
+    Classificador de Triângulos:
+    Escreva um programa que classifique um triângulo (equilátero, isósceles ou escaleno) com base nos comprimentos de seus lados fornecidos pelo usuário.
+
+    Anagramas:
+    Crie um programa que determine se duas palavras fornecidas pelo usuário são anagramas uma da outra (ou seja, elas contêm exatamente as mesmas letras, mas em ordem diferente).
+
+Esses exercícios abrangem uma variedade de conceitos, desde operações básicas até estruturas de controle e funções mais avançadas em Python. Eles são úteis para praticar e aprimorar suas habilidades de programação.
