@@ -17,23 +17,16 @@ class Anagrama:
         segunda_palavra = segunda_palavra.lower()
 
         lista_segunda_palavra = list(segunda_palavra)
-        # print(lista_segunda_palavra)
 
         valida_qtd_primeira_palavra = len(primeira_palavra)
 
-        for letra in primeira_palavra:
-            # print("Primeira: " + letra)
-            
+        for letra in primeira_palavra:          
             for letrasegunda in lista_segunda_palavra:
-                
-                # print("Seg: " +letrasegunda)
-
                 if letrasegunda == letra:
                     valida_qtd_primeira_palavra -= 1
                     lista_segunda_palavra.remove(letrasegunda)
                     print(valida_qtd_primeira_palavra)
-                    
-                    
+                                 
         if valida_qtd_primeira_palavra == 0:
             print(f'''As palavras são Anagramas.\n
                 {primeira_palavra}
