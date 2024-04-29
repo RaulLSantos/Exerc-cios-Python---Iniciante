@@ -1,0 +1,29 @@
+    Jogo da Forca:
+    Implemente o jogo da forca, onde o jogador tem que adivinhar uma palavra oculta.
+
+    Simulador de Dados:
+    Crie um programa que simule o lançamento de dados, permitindo ao usuário especificar o número de dados e o número de lados de cada dado.
+
+    Calculadora de Matrizes:
+    Escreva um programa que permita ao usuário realizar operações básicas com matrizes, como adição, subtração e multiplicação.
+
+    Gerador de Senhas Aleatórias:
+    Crie um programa que gere senhas aleatórias com base nas preferências do usuário, como comprimento da senha e quais caracteres incluir.
+
+    Busca em Profundidade (DFS):
+    Implemente o algoritmo de busca em profundidade (DFS) para percorrer um grafo e encontrar todos os vértices alcançáveis a partir de um vértice inicial.
+
+    Análise de Sentimentos em Texto:
+    Escreva um programa que analise o sentimento de um texto, determinando se ele é positivo, negativo ou neutro.
+
+    Ordenação por Seleção:
+    Implemente o algoritmo de ordenação por seleção para ordenar uma lista de números.
+
+    Cálculo do Pi usando Séries Infinitas:
+    Escreva um programa que calcule uma aproximação para o valor de Pi usando uma série infinita, como a série de Leibniz ou a série de Gregory-Leibniz.
+
+    Conversor de Unidades:
+    Crie um programa que converta entre diferentes unidades de medida, como temperatura, comprimento, peso, etc.
+
+    Busca Binária:
+    Implemente o algoritmo de busca binária para encontrar um elemento em uma lista ordenada.
